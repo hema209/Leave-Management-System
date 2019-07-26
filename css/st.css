@@ -1,0 +1,46 @@
+#main-wrapper
+{
+	width:500px;
+	margin: 0 auto;
+	background:white;
+	padding:5px;
+	border-radius:20px;
+	border:2px solid #483D8B;
+}
+
+.avatar
+{
+	width:150px;
+	text-align:center;
+	
+}
+.inputvalues
+{
+	width:430px;
+	margin:0 auto;
+	padding:5px;
+}
+#login_btn
+{
+	margin-top:10px;
+	background-color:#483D8B;
+	padding:15px;
+	color:white;
+	width:100px;
+	text-align:center;
+	font-size:15px;
+	font-weight:bold;
+}
+#register_btn
+{
+	margin-bottom:20px;
+	margin-top:10px;
+	background-color:#483D8B;
+	padding:10px;
+	color:white;
+	width:100px;
+	text-align:center;
+	font-size:10px;
+	font-weight:bold;
+}
+label{float:left;}
